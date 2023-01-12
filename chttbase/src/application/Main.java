@@ -168,7 +168,7 @@ public class Main extends Application {
 					
 					Stage stage3 = new Stage();
 					Scene scene3 = new Scene(secondgui.getAnchorPane(), 1000, 600);
-					stage3.getIcons().add(new Image("https://img.icons8.com/doodle/512/messaging-.png"));
+					stage3.getIcons().add(new Image("https://img.icons8.com/ultraviolet/512/whatsapp--v1.png"));
 					scene3.getStylesheets().add(String.valueOf(this.getClass().getResource("application.css")));
 					stage3.setTitle("Chat");
 					stage3.setScene(scene3);
