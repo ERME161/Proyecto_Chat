@@ -8,10 +8,13 @@
 ![image](https://user-images.githubusercontent.com/99735542/211963421-5f46c961-eba2-4631-9493-c29db1e1fa35.png)
 
 ### Una vez ingresado los datos de inicio de seccion nos aparecera el chat.
-![image](https://user-images.githubusercontent.com/99735542/211963870-7d002c84-9096-4c8a-9532-e86c559e51bd.png)
+![image](https://user-images.githubusercontent.com/99735542/211966354-fefa2100-b2fa-4e1c-9da2-2aff915a2144.png)
 
-### Podremos elegir algun chat empezado e interactuar con el.
-![image](https://user-images.githubusercontent.com/99735542/211964114-e20e0dfd-b2ab-43ea-81b5-e1351780aec8.png)
 
-![image](https://user-images.githubusercontent.com/99735542/211964257-5d45d830-3013-4de0-a5c8-498b4309b3ea.png)
+### Podremos elegir algún chat empezado e interactuar con el.
+![image](https://user-images.githubusercontent.com/99735542/211966422-2ea263ac-3391-4d1f-a177-df0a62c889a9.png)
+
+
+![image](https://user-images.githubusercontent.com/99735542/211966498-66275f5b-900e-4945-ad53-1e785f18832a.png)
+
 
