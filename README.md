@@ -1,13 +1,13 @@
 # Proyecto Chat 💬
 
-### Este proyecto tiene como finalidad el correcto funcionamiento de un chat parecido a whatsApp ✅. Empleando las funciones de envío de mensajes a diferentes contactos,
-### visualizacion de estado de cada usuario, ultima conexión, etc. Llevando a cabo la realizacion del programa en javaFx. 
+### Este proyecto tiene como finalidad el correcto funcionamiento de un chat parecido a WhatsApp ✅. Empleando las funciones de envío de mensajes a diferentes contactos,
+### visualización de estado de cada usuario, última conexión, etc. Llevando a cabo la realización del programa en javaFx. 
 
 # Capturas de pantalla de la ejecución 👨‍💻
-### En esta captura apreciamos el inicio de seccion con un usuario y contraseña que nos permitira acceder al chat de WhatsApp.
+### En esta captura apreciamos el inicio de sección con un usuario y contraseña que nos permitira acceder al chat de WhatsApp.
 ![image](https://user-images.githubusercontent.com/99735542/211963421-5f46c961-eba2-4631-9493-c29db1e1fa35.png)
 
-### Una vez ingresado los datos de inicio de seccion nos aparecera el chat.
+### Una vez ingresado los datos de inicio de sección nos aparecera el chat.
 ![image](https://user-images.githubusercontent.com/99735542/211966354-fefa2100-b2fa-4e1c-9da2-2aff915a2144.png)
 
 
