@@ -6,6 +6,9 @@ import java.time.format.DateTimeFormatter;
 import com.message.dominio.Chat;
 import com.message.dominio.Mensaje;
 import com.message.dominio.Usuario;
+import com.chat.db.ChatRepositorydb;
+import com.chat.db.MessageRepositorydb;
+import com.chat.db.UserRepositorydb;
 import  com.message.Gui.Bottomdesign;
 import com.message.Gui.FirstGui;
 import com.message.Gui.Leftdesign;
@@ -25,9 +28,9 @@ import javafx.scene.image.Image;
 import javafx.scene.input.MouseEvent;
 
 public class Main extends Application {
-	UserRepo usuarios = new UserRepo();
-	MessageRepo mensajes = new MessageRepo();
-	ChatRepo chats = new ChatRepo();
+	UserRepositorydb usuarios = new UserRepositorydb();
+	MessageRepositorydb mensajes = new MessageRepositorydb();
+	ChatRepositorydb chats = new ChatRepositorydb();
 	
     @Override
     public void start(Stage stage1) throws Exception { 	
